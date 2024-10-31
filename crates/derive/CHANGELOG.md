@@ -6,6 +6,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.6](https://github.com/nkysg/kona/compare/kona-derive-v0.0.5...kona-derive-v0.0.6) - 2024-10-31
+
+### Added
+
+- *(derive)* sources docs ([#754](https://github.com/nkysg/kona/pull/754))
+
+### Other
+
+- *(derive)* Error Exports ([#758](https://github.com/nkysg/kona/pull/758))
+- *(derive)* Cleanup Exports ([#757](https://github.com/nkysg/kona/pull/757))
+
 ## [0.0.5](https://github.com/anton-rs/kona/compare/kona-derive-v0.0.4...kona-derive-v0.0.5) - 2024-10-29
 
 ### Added

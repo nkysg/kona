@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.3](https://github.com/nkysg/kona/compare/kona-derive-alloy-v0.0.2...kona-derive-alloy-v0.0.3) - 2024-10-31
+
+### Fixed
+
+- *(derive-alloy)* changelog ([#752](https://github.com/nkysg/kona/pull/752))
+
 ## [0.0.2](https://github.com/anton-rs/kona/compare/kona-derive-alloy-v0.0.1...kona-derive-alloy-v0.0.2) - 2024-10-29
 
 ### Added
